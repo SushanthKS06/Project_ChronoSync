@@ -1,0 +1,14 @@
+# Numatix-Quant Trading System Dependencies
+
+# Backtesting framework
+backtesting>=0.3.3
+
+# Data manipulation
+pandas>=2.0.0
+numpy>=1.24.0
+
+# HTTP requests for Binance API
+requests>=2.31.0
+
+# Environment configuration
+python-dotenv>=1.0.0

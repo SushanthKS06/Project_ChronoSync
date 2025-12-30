@@ -1,0 +1,45 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+myenv/
+.env/
+ENV/
+
+# Environment variables (contains secrets!)
+.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+logs/
+*.log
+
+# Data files (regenerated on each run)
+data/live_trades.csv
+data/backtest_trades.csv
+data/archive/
+
+# pytest
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
